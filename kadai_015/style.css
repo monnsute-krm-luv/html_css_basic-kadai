@@ -1,7 +1,6 @@
 body{
   font-family: "Arial", "Meiryo", sans-serif;
   text-align: center;
-  font-size: 20px;
 }
 .pink {
   color: rgb(255, 192, 203);
@@ -24,4 +23,5 @@ h1, .decoration{
 #basic p {
   font-weight: bold;
 }
+
 
